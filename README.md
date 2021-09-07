@@ -1,2 +1,2 @@
-# Speed-Racer
-created by Anish Sonar
+# C36RV_SpeedRacer_StudentActivity
+Student Activity
